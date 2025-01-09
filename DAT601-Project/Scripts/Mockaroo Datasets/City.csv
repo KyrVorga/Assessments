@@ -1,0 +1,202 @@
+CityID,CityName,CountryID,Country
+1,Fort Worth,4 
+2,Kansas City,3 
+3,Charlotte,3 
+4,Muskegon,1 
+5,Orlando,1 
+6,Marietta,1 
+7,Washington,2 
+8,Los Angeles,1 
+9,Kansas City,3 
+10,Colorado Springs,3 
+11,Sacramento,3 
+12,Otorohanga,1 
+13,Humble,4 
+14,Denver,2 
+15,Louisville,1 
+16,El Paso,3 
+17,Los Angeles,4 
+18,Amarillo,3 
+19,Fort Worth,4 
+20,Elmira,1 
+21,Madison,3 
+22,Cincinnati,1 
+23,Tucson,4 
+24,Louisville,1 
+25,Jackson,2 
+26,Evansville,4 
+27,Miami,3 
+28,Omaha,4 
+29,Cumming,4 
+30,Hagerstown,1 
+31,Birmingham,2 
+32,Taipa,2 
+33,Knoxville,3 
+34,Lexington,1 
+35,Colorado Springs,4 
+36,Salt Lake City,4 
+37,Anchorage,4 
+38,Fresno,4 
+39,Washington,2 
+40,Minneapolis,3 
+41,Chattanooga,3 
+42,Charleston,3 
+43,Montgomery,4 
+44,New Orleans,4 
+45,Saint Paul,2 
+46,Brampton,4 
+47,Upton,4 
+48,Tulsa,1 
+49,Des Moines,1 
+50,Little Rock,2 
+51,Atlanta,3 
+52,Tulsa,1 
+53,Savannah,2 
+54,Lincoln,3 
+55,Oakland,3 
+56,Springfield,4 
+57,Burnside,4 
+58,Des Moines,4 
+59,Seattle,1 
+60,Newport,4 
+61,San Diego,1 
+62,Fort Wayne,3 
+63,Minneapolis,3 
+64,New Orleans,1 
+65,Evansville,4 
+66,Atlanta,1 
+67,Wakefield,4 
+68,Simi Valley,2 
+69,Houston,1 
+70,Durham,4 
+71,Savannah,1 
+72,Largo,4 
+73,Sacramento,4 
+74,Long Beach,2 
+75,Virginia Beach,4 
+76,Houston,2 
+77,Vienna,1 
+78,Irving,3 
+79,Gore,4 
+80,Huntington,4 
+81,Detroit,3 
+82,Red Hill,2 
+83,Ogden,1 
+84,Tullich,4 
+85,Baltimore,3 
+86,Winston Salem,4 
+87,Bradenton,4 
+88,West End,4 
+89,Clearwater,2 
+90,Fort Worth,4 
+91,Chicago,4 
+92,Irving,3 
+93,London,3 
+94,Alhambra,2 
+95,Vienna,3 
+96,Philadelphia,3 
+97,Sydney,3 
+98,Huntington,1 
+99,Las Vegas,1 
+100,Reno,4 
+100,Richmond,3 
+101,Seaton,4 
+102,Milton,4 
+103,Moerewa,3 
+104,Tamaki,4 
+105,Norton,2 
+106,Newton,1 
+107,Rosebank,3 
+108,Adelaide Mail Centre,2 
+109,Kerikeri,4 
+110,Kinloch,3 
+111,Methven,3 
+112,Sydney,1 
+113,Foxton,4 
+114,Otorohanga,2 
+115,Pukekohe East,3 
+116,Levin,2 
+117,Upton,4 
+118,Marston,2 
+119,Upton,1 
+120,Hobart,2 
+121,Waitangi,4 
+122,Sydney,3 
+123,Edinburgh,3 
+124,Melbourne,3 
+125,Kerikeri,1 
+126,Buckland,2 
+127,North Shore,3 
+128,Hastings,1 
+129,Kawerau,3 
+130,London,4 
+131,Bulls,1 
+132,Levin,4 
+133,North Shore,1 
+134,Kawakawa,3 
+135,Paraparaumu,3 
+136,Weston,2 
+137,Tamaki,2 
+138,Taradale,4 
+139,Paihia,4 
+140,Sheffield,2 
+141,Red Hill,1 
+142,Otorohanga,1 
+143,Manukau City,2 
+144,Melbourne,2 
+145,Turangi,3 
+146,Melbourne,3 
+147,Sydney,3 
+148,Sydney,4 
+149,Brisbane,1 
+150,Raglan,1 
+151,Milton,4 
+152,Sydney,3 
+153,Manchester,1 
+154,Eastern Suburbs Mc,3 
+155,Thames,1 
+156,Carlton,2 
+157,Sheffield,2 
+158,Sydney,1 
+159,Porirua,1 
+160,Sydney,2 
+161,Waihi,3 
+162,Perth,1 
+163,Seaton,2 
+164,Raglan,3 
+165,Gore,1 
+166,Marston,3 
+167,Whakatane,2 
+168,Lower Hutt,3 
+169,Patea,3 
+170,Melbourne,1 
+171,Hastings,1 
+172,Wirral,1 
+173,Sydney,4 
+174,Otorohanga,3 
+175,Horton,2 
+176,Kirkton,3 
+177,Bluff,4 
+178,Sydney,3 
+179,Kaiapoi,1 
+180,Church End,4 
+181,Norton,3 
+182,Launceston,1 
+183,Waihi,4 
+184,East End,4 
+185,Upton,1 
+186,Norton,2 
+187,Sydney,2 
+188,Melbourne,3 
+189,Turangi,4 
+190,Richmond,1 
+191,Lower Hutt,1 
+192,Timaru,1 
+193,Newton,3 
+194,Hobart,3 
+195,Brooklyn,3 
+196,Newbiggin,2 
+197,Eastern Suburbs Mc,4 
+198,Adelaide Mail Centre,2 
+199,Norton,1 
+200,Wakefield,1 

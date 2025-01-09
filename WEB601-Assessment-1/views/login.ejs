@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <%- include('partials/head.ejs'); %>
+    <link href="/css/login_register.css" rel="stylesheet" />
+
+    <body>
+        <!-- Navigation-->
+        <%- include('partials/navigation.ejs'); %>
+
+        <!-- Page Header-->
+        <%- include('partials/header.ejs', 
+            {
+                h1: 'Login',
+                h2: 'Please login here.'
+            }); 
+        %>
+        <!-- Main Content--> 
+        <main class="mb-4">
+            <!-- Login form -->
+            <body class="my-login-page">
+                <section class="h-100">
+                    <div class="container h-100">
+                        <div class="row justify-content-md-center h-100">
+                            <div class="card-wrapper">
+                                <div class="card fat">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Login</h4>
+                                        <!-- <form action="/api/user/login" method="POST" class="my-login-validation" novalidate=""> -->
+                                        <form class="my-login-validation" novalidate="">
+                                            <!-- Username Input -->
+                                            <div class="form-group">
+                                                <label for="username">Username</label>
+                                                <input id="username-input" type="username" class="form-control" name="username" value="" required autofocus>
+                                            </div>
+                                            <!-- Password Input -->
+                                            <div class="form-group">
+                                                <label for="password">Password</label>
+                                                <input id="password-input" type="password" class="form-control" name="password" required data-eye>
+                                            </div>
+                                            <!-- Login Button -->
+                                            <div class="form-group m-0">
+                                                <button type='button' class="btn btn-primary btn-block" id="login-btn">Login</button>
+                                            </div>
+                                            <!-- Register Account Button -->
+                                            <div class="mt-4 text-center">
+                                                Don't have an account? <br> <a href="register.ejs">Create One</a>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </body>
+        </main>
+
+        <%- include('partials/footer.ejs'); %>
+
+        <!-- Create register.js -->
+        <script type="application/javascript" src="/login.js"></script> 
+
+    </body>
+</html>
